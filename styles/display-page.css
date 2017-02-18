@@ -1,0 +1,51 @@
+main {
+	margin-top:100px;
+	font-size: 0;
+}
+
+.box-whole {
+	// margin-top:100px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.box_vertical {
+	width: 50%;
+	height: 200px;
+}
+
+.box_horizontal {
+	width: 33.33%;
+	height: 300px;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.green {
+	background-color: green;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.gold {
+	background-color: orange;
+}
+
+
+
+
+
